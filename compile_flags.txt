@@ -1,0 +1,4 @@
+-Iinclude/imgui
+-Iinclude/SDL2
+-Llib
+-lSDL2

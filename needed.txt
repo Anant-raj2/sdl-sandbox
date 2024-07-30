@@ -1,0 +1,6 @@
+lib32-sdl
+lib32-sdl2
+lib32-sdl2_ttf
+sdl
+sdl2
+sdl2_ttf
